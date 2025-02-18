@@ -11,4 +11,6 @@ Please, do not report any bugs. I most likely wont fix them anyway. Once again. 
 
 The save location should be inside the game folder. 
 
+The game had to be split into two parts. Put data.win inside the game folder. Otherwise you're not gonna launch.
+
 Enjoy!
