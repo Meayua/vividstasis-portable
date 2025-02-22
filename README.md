@@ -9,7 +9,7 @@ All credit for the game goes to Team vividstasis for the game, and the goldenber
 
 Please, do not report any bugs. I most likely wont fix them anyway. Once again. I take no credit for anything.
 
-The save location should be inside the game folder. 
+The save location should be the default. I cannot change it as it would probably require modding the game.
 
 The game had to be split into two parts. Put data.win inside the game folder. Otherwise you're not gonna launch.
 
